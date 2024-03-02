@@ -1,14 +1,14 @@
 {
   "name": "southpark-api",
   "version": "1.0.0",
-  "description": "Small project, created with HTML, CSS and vanila JavaScript. It uses RestAPI with South Park API",
+  "description": "Small project, created with HTML, CSS and vanila JavaScript. It uses RestAPI with Dummy API",
   "main": "index.js",
   "scripts": {
     "start": "tsc --watch"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IrinaTsoi312/southpark-api.git"
+    "url": "git+https://github.com/IrinaTsoi312/online-store.git"
   },
   "keywords": [
     "RestAPI",
@@ -17,7 +17,7 @@
   "author": "Irina Tsoi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/IrinaTsoi312/southpark-api/issues"
+    "url": "https://github.com/IrinaTsoi312/online-store/issues"
   },
   "homepage": "https://github.com/IrinaTsoi312/southpark-api#readme",
   "dependencies": {
